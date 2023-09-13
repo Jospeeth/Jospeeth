@@ -1,4 +1,5 @@
-### Hi there 👋 I'm Jose Angel Pertuz a frontend developer from Colombia
+### Hi there 👋 
+I'm Jose Angel Pertuz a frontend developer from Colombia
 
 # 💫 About Me:
 🔭 I’m currently working to **becoming a fronted-Developer Engineer**<br/>
